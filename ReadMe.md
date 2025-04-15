@@ -52,7 +52,7 @@ For more details, visit our official website at [Dante Labs](https://dantelabs.i
 
 ## Contact Us
 
-Have questions or want to work with us? Reach out at [hello@dantelabs.io](hr@dantelabs.us).
+Have questions or want to work with us? Reach out at [hello@dantelabs.io](mailto:hr@dantelabs.us).
 
 <!-- ![Achiever](https://img.shields.io/badge/Achiever-10_commits-yellow)
 ![First Commit](https://img.shields.io/badge/First_Commit-2021-blue)
