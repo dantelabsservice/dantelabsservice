@@ -42,13 +42,13 @@ We take a **security-first** approach, understanding that security is the most i
 
 Feel free to explore, contribute, and collaborate on our open-source projects. Your contributions are what help the blockchain ecosystem grow and innovate!
 
-For more details, visit our official website at [Dante Labs](https://dantelabs.io).
+For more details, visit our official website at [Dante Labs](https://dantelabs.us).
 
 ---
 
 ### Follow Us
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=react&logoColor=white)](https://dantelabs.io)_[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/dante-labs)_[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DanteLabs_io)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=react&logoColor=white)](https://dantelabs.us)_[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/dante-labs)_[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DanteLabs_io)
 
 ## Contact Us
 
